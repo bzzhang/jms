@@ -1,0 +1,4 @@
+com\jms\customer\Receiver.class
+com\jms\SampleController.class
+com\jms\producer\Producer.class
+com\jms\producer\Producer$1.class
